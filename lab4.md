@@ -1,12 +1,13 @@
 # Lab Report 4
 In this lab, it will show through how to reproduce each of the steps from lab using vim.
 ## 1 : In this first step, log onto your ieng6 account(no longer have to put in your password)
-**Steps:** `ssh cs15lsp23mg@ieng6.ucsd.edu`<enter>
--for these steps, it logs into the specific account to perform specific tasks in the folders
+**Steps:** `ssh cs15lsp23mg@ieng6.ucsd.edu` enter
+- for these steps, it logs into the specific account to perform specific tasks in the folders
 <img width="1440" alt="Screen Shot 2023-05-22 at 5 10 14 PM" src="https://github.com/julieli3344/lab_Report_4/assets/83881461/269c94d3-8586-45f2-8913-694eeb04e3f7">
 
 ## 2 : Next clone your fork of the repository from your Github account using ssh instead of url
-**Steps:**
+**Steps:** `git clone git@github.com:julieli3344/lab7.git` enter
+- `git clone` is a specific git command to clone the repository 
 <img width="1440" alt="Screen Shot 2023-05-22 at 5 35 29 PM" src="https://github.com/julieli3344/lab_Report_4/assets/83881461/e77c3d04-1e02-498d-b0a3-43332bd41991">
 
 ## 3 : Run the ListExamplesTests to show that it will fail
